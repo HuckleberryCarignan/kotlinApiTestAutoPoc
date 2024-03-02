@@ -1,2 +1,2 @@
 # kotlinApiTestAutoPoc
-Proud Of Concept of API test automation using Kotlin
+Proof Of Concept of API test automation using Kotlin
